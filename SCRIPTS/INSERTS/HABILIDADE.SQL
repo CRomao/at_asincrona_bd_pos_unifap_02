@@ -1,0 +1,10 @@
+INSERT INTO HABILIDADE (UUID, UUID_CATEGORIA, NOME) VALUES ('1234abcd5678901efghijklmnoprstuvxyz', '1234abcd5678901efghijklmnoprstuvxyz', 'Programação em Python');
+INSERT INTO HABILIDADE (UUID, UUID_CATEGORIA, NOME) VALUES ('2345bcde6789012fghijklmnopqrstuvwxy7', '2345bcde6789012fghijklmnopqrstuvwxy7', 'Segurança de Rede');
+INSERT INTO HABILIDADE (UUID, UUID_CATEGORIA, NOME) VALUES ('3456cdef7890123ghijklmnopqrstuvwxy7', '3456cdef7890123ghijklmnopqrstuvwxy7', 'Administração de Redes');
+INSERT INTO HABILIDADE (UUID, UUID_CATEGORIA, NOME) VALUES ('4567defg8901234hijklmnopqrstuvwxyz', '4567defg8901234hijklmnopqrstuvwxyz', 'Infraestrutura de Servidores');
+INSERT INTO HABILIDADE (UUID, UUID_CATEGORIA, NOME) VALUES ('5678efgh9012345ijklmnopqrstuvwxy89', '5678efgh9012345ijklmnopqrstuvwxy89', 'Desenvolvimento Front-End');
+INSERT INTO HABILIDADE (UUID, UUID_CATEGORIA, NOME) VALUES ('6789fghi0123456jklmnopqrstuvwxyzab', '6789fghi0123456jklmnopqrstuvwxyzab', 'Desenvolvimento de Aplicativos Móveis');
+INSERT INTO HABILIDADE (UUID, UUID_CATEGORIA, NOME) VALUES ('7890ghij1234567klmnopqrstuvwxyzabc', '7890ghij1234567klmnopqrstuvwxyzabc', 'Análise de Dados');
+INSERT INTO HABILIDADE (UUID, UUID_CATEGORIA, NOME) VALUES ('8901hijk2345678lmnoabcdefghijklmn', '8901hijk2345678lmnoabcdefghijklmn', 'Automação de Infraestrutura');
+INSERT INTO HABILIDADE (UUID, UUID_CATEGORIA, NOME) VALUES ('9012ijkl3456789mnopqabcdefgopqrstx', '9012ijkl3456789mnopqabcdefgopqrstx', 'Inteligência Artificial com Python');
+INSERT INTO HABILIDADE (UUID, UUID_CATEGORIA, NOME) VALUES ('0123jklm4567890nopqrstuvabcdefgx8', '0123jklm4567890nopqrstuvabcdefgx8', 'Design de Interfaces Usuário');

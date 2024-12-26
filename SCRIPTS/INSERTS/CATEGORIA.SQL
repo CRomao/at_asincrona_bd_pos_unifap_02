@@ -1,0 +1,10 @@
+INSERT INTO CATEGORIA (UUID, NOME) VALUES ('1234abcd5678901efghijklmnoprstuvxyz', 'Desenvolvimento');
+INSERT INTO CATEGORIA (UUID, NOME) VALUES ('2345bcde6789012fghijklmnopqrstuvwxy7', 'Segurança');
+INSERT INTO CATEGORIA (UUID, NOME) VALUES ('3456cdef7890123ghijklmnopqrstuvwxy7', 'Redes');
+INSERT INTO CATEGORIA (UUID, NOME) VALUES ('4567defg8901234hijklmnopqrstuvwxyz', 'Infraestrutura');
+INSERT INTO CATEGORIA (UUID, NOME) VALUES ('5678efgh9012345ijklmnopqrstuvwxy89', 'Desenvolvimento Web');
+INSERT INTO CATEGORIA (UUID, NOME) VALUES ('6789fghi0123456jklmnopqrstuvwxyzab', 'Desenvolvimento Móvel');
+INSERT INTO CATEGORIA (UUID, NOME) VALUES ('7890ghij1234567klmnopqrstuvwxyzabc', 'Data Science');
+INSERT INTO CATEGORIA (UUID, NOME) VALUES ('8901hijk2345678lmnoabcdefghijklmn', 'DevOps');
+INSERT INTO CATEGORIA (UUID, NOME) VALUES ('9012ijkl3456789mnopqabcdefgopqrstx', 'Inteligência Artificial');
+INSERT INTO CATEGORIA (UUID, NOME) VALUES ('0123jklm4567890nopqrstuvabcdefgx8', 'UX/UI Design');

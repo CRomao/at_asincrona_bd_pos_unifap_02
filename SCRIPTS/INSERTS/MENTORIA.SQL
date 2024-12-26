@@ -1,0 +1,10 @@
+INSERT INTO MENTORIA (UUID, UUID_MENTOR, PRECO, HORARIO, NOME) VALUES ('1234abcd5678901efghijklmnoprstuvxyz', '89012op345klmnqrst-gvwx567ij012op89', 150.000, '10:00', 'Consultoria em Desenvolvimento Web');
+INSERT INTO MENTORIA (UUID, UUID_MENTOR, PRECO, HORARIO, NOME) VALUES ('2345bcde6789012fghijklmnoprtuuvwxyz', '89012op345klmnqrst-gvwx567ij012op89', 250.000, '14:00', 'Mentoria de Flutter e Apps Móveis');
+INSERT INTO MENTORIA (UUID, UUID_MENTOR, PRECO, HORARIO, NOME) VALUES ('3456cdef7890123ghijklmnopqrstuvwxy7', '01234mnopqrst789klwxghv9ijkl5xy23op', 200.000, '15:30', 'Apoio para Análise de Dados');
+INSERT INTO MENTORIA (UUID, UUID_MENTOR, PRECO, HORARIO, NOME) VALUES ('4567defg8901234hijklmnopqrstuvwxyz', '567klmnopqrstxy34opgh890ijkl12uv01', 100.000, '16:45', 'Introdução à Inteligência Artificial');
+INSERT INTO MENTORIA (UUID, UUID_MENTOR, PRECO, HORARIO, NOME) VALUES ('5678efgh9012345ijklmnopqrstuvwxy89', '89012op345klmnqrst-gvwx567ij012op89', 120.000, '09:30', 'Consultoria em Design UX/UI');
+INSERT INTO MENTORIA (UUID, UUID_MENTOR, PRECO, HORARIO, NOME) VALUES ('6789fghi0123456jklmnopqrstuvwxyzab', '89012op345klmnqrst-gvwx567ij012op89', 180.000, '12:00', 'Planejamento de Carreira em TI');
+INSERT INTO MENTORIA (UUID, UUID_MENTOR, PRECO, HORARIO, NOME) VALUES ('7890ghij1234567klmnopqrstuvwxyzabc', '89012op345klmnqrst-gvwx567ij012op89', 220.000, '17:00', 'Mentoria em Frameworks Front-End');
+INSERT INTO MENTORIA (UUID, UUID_MENTOR, PRECO, HORARIO, NOME) VALUES ('8901hijk2345678lmnoabcdefghijklmn', '567klmnopqrstxy34opgh890ijkl12uv01', 110.000, '11:15', 'Desenvolvimento de Aplicações com Python');
+INSERT INTO MENTORIA (UUID, UUID_MENTOR, PRECO, HORARIO, NOME) VALUES ('9012ijkl3456789mnopqabcdefgopqrstx', '89012op345klmnqrst-gvwx567ij012op89', 130.000, '13:30', 'Construção de APIs RESTful');
+INSERT INTO MENTORIA (UUID, UUID_MENTOR, PRECO, HORARIO, NOME) VALUES ('0123jklm4567890nopqrstuvabcdefgx8', '567klmnopqrstxy34opgh890ijkl12uv01', 160.000, '18:00', 'Gestão de Projetos Ágeis');
